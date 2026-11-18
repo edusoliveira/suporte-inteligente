@@ -1,0 +1,241 @@
+id,cliente,categoria,prioridade,status,canal,aberto_em,fechado_em,assunto
+1,Construtora Alicerce,entrega,urgente,fechado,email,2026-11-03T08:53,2026-11-04T09:41,Quero trocar o produto
+2,Mercado Bom Preço,cobranca,media,em_andamento,chat,2026-11-03T08:58,,Boleto não foi gerado
+3,Construtora Alicerce,entrega,baixa,fechado,email,2026-11-03T09:26,2026-11-03T10:19,Quero trocar o produto
+4,Ótica Visão Clara,conta,baixa,fechado,chat,2026-11-03T11:27,2026-11-04T15:46,Como adicionar um novo usuário?
+5,Pet Shop Amigo Fiel,entrega,media,aberto,email,2026-11-03T12:42,,Código de rastreio não funciona
+6,Farmácia Saúde Já,entrega,media,fechado,telefone,2026-11-03T13:07,2026-11-03T16:01,Entrega feita no endereço errado
+7,Pet Shop Amigo Fiel,cobranca,baixa,fechado,email,2026-11-03T14:49,2026-11-03T23:25,Reembolso ainda não caiu
+8,Padaria Pão Quente,conta,urgente,aberto,telefone,2026-11-03T15:03,,Conta bloqueada após várias tentativas
+9,Clínica Vida Plena,tecnico,alta,em_andamento,telefone,2026-11-03T15:41,,Erro 500 ao salvar relatório
+10,Academia Corpo Ativo,conta,media,fechado,chat,2026-11-03T15:50,2026-11-04T03:10,Conta bloqueada após várias tentativas
+11,Pet Shop Amigo Fiel,cobranca,alta,fechado,chat,2026-11-03T15:52,2026-11-04T12:53,Reembolso ainda não caiu
+12,Livraria Página 1,entrega,alta,em_andamento,chat,2026-11-03T15:55,,Produto chegou com defeito
+13,Escola Saber Mais,tecnico,media,aberto,chat,2026-11-03T16:22,,Erro 500 ao salvar relatório
+14,Pet Shop Amigo Fiel,cobranca,baixa,fechado,chat,2026-11-03T16:34,2026-11-03T19:14,Boleto não foi gerado
+15,Restaurante Sabor Caseiro,conta,media,fechado,email,2026-11-03T17:59,2026-11-04T00:45,Conta bloqueada após várias tentativas
+16,Hotel Recanto Azul,conta,baixa,aberto,chat,2026-11-03T18:26,,Como adicionar um novo usuário?
+17,Studio Foto Arte,tecnico,urgente,aberto,telefone,2026-11-03T18:41,,Não consigo exportar para Excel
+18,Restaurante Sabor Caseiro,tecnico,media,em_andamento,telefone,2026-11-03T19:26,,Integração com a API está lenta
+19,Farmácia Saúde Já,tecnico,alta,em_andamento,email,2026-11-03T20:06,,Integração com a API está lenta
+20,Loja Bella Moda,cobranca,baixa,em_andamento,chat,2026-11-03T20:33,,Valor da fatura veio errado
+21,Padaria Pão Quente,cobranca,urgente,fechado,email,2026-11-03T21:48,2026-11-04T16:30,Boleto não foi gerado
+22,Restaurante Sabor Caseiro,entrega,media,fechado,telefone,2026-11-03T22:02,2026-11-04T18:46,Quero trocar o produto
+23,Mercado Bom Preço,entrega,urgente,aberto,chat,2026-11-03T22:05,,Entrega feita no endereço errado
+24,Hotel Recanto Azul,conta,media,aberto,telefone,2026-11-03T22:18,,Esqueci minha senha
+25,Loja Bella Moda,cobranca,media,aberto,chat,2026-11-03T22:21,,Valor da fatura veio errado
+26,Auto Peças Rápido,entrega,baixa,em_andamento,email,2026-11-03T22:32,,Código de rastreio não funciona
+27,Mercado Bom Preço,cobranca,media,fechado,chat,2026-11-03T22:53,2026-11-04T22:56,Cobrança em duplicidade no cartão
+28,TechNova Sistemas,tecnico,baixa,aberto,chat,2026-11-03T23:49,,App não abre depois da atualização
+29,Clínica Vida Plena,cobranca,baixa,fechado,email,2026-11-04T00:33,2026-11-04T12:22,Reembolso ainda não caiu
+30,Ótica Visão Clara,entrega,media,aberto,email,2026-11-04T01:09,,Quero trocar o produto
+31,Studio Foto Arte,tecnico,media,fechado,email,2026-11-04T01:32,2026-11-04T13:04,Integração com a API está lenta
+32,Farmácia Saúde Já,tecnico,media,aberto,telefone,2026-11-04T01:56,,Não consigo exportar para Excel
+33,Ótica Visão Clara,cobranca,media,em_andamento,chat,2026-11-04T01:57,,Reembolso ainda não caiu
+34,TechNova Sistemas,entrega,baixa,aberto,email,2026-11-04T02:19,,Código de rastreio não funciona
+35,Clínica Vida Plena,conta,alta,em_andamento,telefone,2026-11-04T02:26,,Conta bloqueada após várias tentativas
+36,Restaurante Sabor Caseiro,cobranca,urgente,aberto,telefone,2026-11-04T02:41,,Cobrança em duplicidade no cartão
+37,Pet Shop Amigo Fiel,tecnico,alta,aberto,email,2026-11-04T02:59,,"Sistema parado, não funciona nada"
+38,Pet Shop Amigo Fiel,conta,baixa,fechado,chat,2026-11-04T03:29,2026-11-04T09:34,Conta bloqueada após várias tentativas
+39,Restaurante Sabor Caseiro,tecnico,media,fechado,chat,2026-11-04T04:10,2026-11-04T16:12,Erro 500 ao salvar relatório
+40,Auto Peças Rápido,cobranca,media,fechado,telefone,2026-11-04T04:29,2026-11-04T18:35,Boleto não foi gerado
+41,Livraria Página 1,entrega,urgente,fechado,telefone,2026-11-04T05:55,2026-11-05T11:15,Entrega feita no endereço errado
+42,Construtora Alicerce,conta,media,fechado,chat,2026-11-04T08:39,2026-11-04T09:22,Conta bloqueada após várias tentativas
+43,Clínica Vida Plena,entrega,baixa,fechado,email,2026-11-04T08:49,2026-11-05T14:27,Entrega feita no endereço errado
+44,Farmácia Saúde Já,entrega,media,em_andamento,chat,2026-11-04T09:57,,Produto chegou com defeito
+45,Loja Bella Moda,tecnico,baixa,fechado,chat,2026-11-04T10:31,2026-11-05T08:49,App não abre depois da atualização
+46,Mercado Bom Preço,cobranca,media,aberto,chat,2026-11-04T10:32,,Reembolso ainda não caiu
+47,Clínica Vida Plena,entrega,media,fechado,telefone,2026-11-04T10:52,2026-11-05T11:08,Código de rastreio não funciona
+48,Auto Peças Rápido,conta,baixa,fechado,chat,2026-11-04T11:07,2026-11-04T23:54,Quero trocar o e-mail da conta
+49,Clínica Vida Plena,conta,media,fechado,chat,2026-11-04T11:24,2026-11-05T02:40,Esqueci minha senha
+50,Escola Saber Mais,tecnico,baixa,aberto,email,2026-11-04T12:04,,App não abre depois da atualização
+51,Construtora Alicerce,cobranca,baixa,fechado,email,2026-11-04T13:13,2026-11-04T18:46,Quero cancelar minha assinatura
+52,TechNova Sistemas,entrega,alta,fechado,chat,2026-11-04T13:28,2026-11-05T04:51,Quero trocar o produto
+53,Restaurante Sabor Caseiro,entrega,baixa,fechado,email,2026-11-04T14:21,2026-11-04T22:42,Entrega feita no endereço errado
+54,Studio Foto Arte,entrega,media,fechado,chat,2026-11-04T15:14,2026-11-04T22:55,Produto chegou com defeito
+55,Academia Corpo Ativo,conta,baixa,fechado,telefone,2026-11-04T16:38,2026-11-05T18:53,Como adicionar um novo usuário?
+56,Pet Shop Amigo Fiel,entrega,media,fechado,email,2026-11-04T16:44,2026-11-05T12:25,Quero trocar o produto
+57,Academia Corpo Ativo,cobranca,baixa,fechado,telefone,2026-11-04T17:54,2026-11-05T04:31,Boleto não foi gerado
+58,Livraria Página 1,conta,alta,fechado,chat,2026-11-04T17:59,2026-11-05T09:08,Conta bloqueada após várias tentativas
+59,TechNova Sistemas,conta,media,fechado,email,2026-11-04T18:10,2026-11-05T15:23,Preciso mudar o plano da empresa
+60,TechNova Sistemas,cobranca,media,fechado,telefone,2026-11-04T18:13,2026-11-05T16:23,Reembolso ainda não caiu
+61,Academia Corpo Ativo,conta,alta,fechado,email,2026-11-04T19:02,2026-11-05T21:54,Como adicionar um novo usuário?
+62,Academia Corpo Ativo,tecnico,baixa,fechado,telefone,2026-11-04T19:03,2026-11-05T14:03,Integração com a API está lenta
+63,Restaurante Sabor Caseiro,conta,baixa,aberto,chat,2026-11-04T19:53,,Quero trocar o e-mail da conta
+64,Pet Shop Amigo Fiel,cobranca,media,aberto,email,2026-11-04T19:59,,Boleto não foi gerado
+65,Construtora Alicerce,tecnico,alta,fechado,chat,2026-11-04T20:05,2026-11-05T08:49,Integração com a API está lenta
+66,Farmácia Saúde Já,entrega,urgente,fechado,chat,2026-11-04T20:24,2026-11-05T19:26,Quero trocar o produto
+67,Ótica Visão Clara,tecnico,media,aberto,email,2026-11-04T21:34,,Integração com a API está lenta
+68,Studio Foto Arte,entrega,baixa,fechado,email,2026-11-04T22:16,2026-11-05T08:01,Entrega feita no endereço errado
+69,Studio Foto Arte,cobranca,baixa,fechado,email,2026-11-04T22:59,2026-11-05T22:22,Boleto não foi gerado
+70,Pet Shop Amigo Fiel,entrega,alta,em_andamento,telefone,2026-11-04T23:00,,Código de rastreio não funciona
+71,Padaria Pão Quente,tecnico,media,em_andamento,email,2026-11-04T23:12,,Não consigo exportar para Excel
+72,Restaurante Sabor Caseiro,cobranca,baixa,aberto,email,2026-11-05T01:25,,Cobrança em duplicidade no cartão
+73,Academia Corpo Ativo,entrega,alta,aberto,email,2026-11-05T02:07,,Entrega feita no endereço errado
+74,Academia Corpo Ativo,entrega,urgente,fechado,email,2026-11-05T02:12,2026-11-05T10:31,Entrega feita no endereço errado
+75,Clínica Vida Plena,tecnico,media,fechado,telefone,2026-11-05T02:15,2026-11-05T10:09,Erro 500 ao salvar relatório
+76,Escola Saber Mais,entrega,urgente,aberto,telefone,2026-11-05T02:16,,Quero trocar o produto
+77,Studio Foto Arte,cobranca,media,aberto,chat,2026-11-05T02:44,,Quero cancelar minha assinatura
+78,Livraria Página 1,conta,alta,fechado,chat,2026-11-05T03:28,2026-11-05T07:24,Quero trocar o e-mail da conta
+79,Construtora Alicerce,cobranca,baixa,fechado,chat,2026-11-05T03:35,2026-11-05T15:26,Cobrança em duplicidade no cartão
+80,Padaria Pão Quente,cobranca,urgente,fechado,telefone,2026-11-05T04:43,2026-11-05T08:39,Valor da fatura veio errado
+81,Pet Shop Amigo Fiel,tecnico,baixa,fechado,email,2026-11-05T07:32,2026-11-06T01:08,"Sistema parado, não funciona nada"
+82,Studio Foto Arte,cobranca,urgente,fechado,email,2026-11-05T07:50,2026-11-06T06:19,Reembolso ainda não caiu
+83,Studio Foto Arte,tecnico,baixa,fechado,email,2026-11-05T08:01,2026-11-06T08:01,App não abre depois da atualização
+84,Hotel Recanto Azul,cobranca,alta,fechado,telefone,2026-11-05T08:58,2026-11-05T20:33,Boleto não foi gerado
+85,Ótica Visão Clara,conta,baixa,fechado,email,2026-11-05T09:13,2026-11-05T21:07,Quero trocar o e-mail da conta
+86,Livraria Página 1,entrega,baixa,aberto,chat,2026-11-05T09:37,,Código de rastreio não funciona
+87,Studio Foto Arte,entrega,baixa,fechado,email,2026-11-05T09:46,2026-11-05T12:10,Pedido atrasado há 5 dias
+88,Auto Peças Rápido,entrega,baixa,fechado,telefone,2026-11-05T11:08,2026-11-05T14:18,Quero trocar o produto
+89,Academia Corpo Ativo,tecnico,media,fechado,chat,2026-11-05T12:23,2026-11-06T01:34,Integração com a API está lenta
+90,Pet Shop Amigo Fiel,entrega,baixa,aberto,chat,2026-11-05T14:09,,Quero trocar o produto
+91,Loja Bella Moda,tecnico,baixa,aberto,chat,2026-11-05T14:22,,Não consigo exportar para Excel
+92,TechNova Sistemas,entrega,media,aberto,telefone,2026-11-05T14:39,,Entrega feita no endereço errado
+93,TechNova Sistemas,cobranca,baixa,fechado,email,2026-11-05T16:44,2026-11-06T02:00,Reembolso ainda não caiu
+94,Pet Shop Amigo Fiel,conta,media,fechado,telefone,2026-11-05T22:50,2026-11-06T11:06,Conta bloqueada após várias tentativas
+95,Restaurante Sabor Caseiro,cobranca,alta,em_andamento,chat,2026-11-05T23:12,,Cobrança em duplicidade no cartão
+96,Restaurante Sabor Caseiro,conta,alta,fechado,chat,2026-11-06T00:51,2026-11-06T21:56,Quero trocar o e-mail da conta
+97,TechNova Sistemas,entrega,alta,em_andamento,email,2026-11-06T01:19,,Código de rastreio não funciona
+98,Mercado Bom Preço,entrega,baixa,fechado,telefone,2026-11-06T01:45,2026-11-06T21:54,Código de rastreio não funciona
+99,Pet Shop Amigo Fiel,cobranca,media,fechado,telefone,2026-11-06T01:54,2026-11-06T18:49,Valor da fatura veio errado
+100,Padaria Pão Quente,entrega,alta,aberto,email,2026-11-06T02:37,,Entrega feita no endereço errado
+101,Academia Corpo Ativo,tecnico,baixa,fechado,email,2026-11-06T02:40,2026-11-06T22:14,Não consigo exportar para Excel
+102,Academia Corpo Ativo,cobranca,media,em_andamento,telefone,2026-11-06T02:42,,Quero cancelar minha assinatura
+103,Padaria Pão Quente,cobranca,media,aberto,email,2026-11-06T03:31,,Boleto não foi gerado
+104,Academia Corpo Ativo,conta,media,fechado,chat,2026-11-06T04:09,2026-11-06T05:17,Preciso mudar o plano da empresa
+105,Studio Foto Arte,entrega,urgente,fechado,telefone,2026-11-06T05:43,2026-11-07T09:25,Quero trocar o produto
+106,Studio Foto Arte,cobranca,baixa,fechado,telefone,2026-11-06T07:28,2026-11-07T07:44,Quero cancelar minha assinatura
+107,Loja Bella Moda,tecnico,baixa,fechado,chat,2026-11-06T08:05,2026-11-06T16:54,Erro 500 ao salvar relatório
+108,Escola Saber Mais,tecnico,media,fechado,telefone,2026-11-06T08:14,2026-11-07T05:49,"Sistema parado, não funciona nada"
+109,Restaurante Sabor Caseiro,tecnico,media,em_andamento,email,2026-11-06T08:31,,App não abre depois da atualização
+110,Loja Bella Moda,tecnico,baixa,fechado,chat,2026-11-06T08:32,2026-11-06T11:13,Não consigo exportar para Excel
+111,Farmácia Saúde Já,entrega,baixa,aberto,chat,2026-11-06T09:06,,Entrega feita no endereço errado
+112,Loja Bella Moda,entrega,urgente,aberto,telefone,2026-11-06T10:57,,Entrega feita no endereço errado
+113,Hotel Recanto Azul,cobranca,baixa,fechado,telefone,2026-11-06T11:26,2026-11-07T16:50,Quero cancelar minha assinatura
+114,Mercado Bom Preço,cobranca,media,fechado,email,2026-11-06T11:42,2026-11-06T16:53,Cobrança em duplicidade no cartão
+115,Hotel Recanto Azul,cobranca,alta,fechado,telefone,2026-11-06T12:04,2026-11-07T15:52,Reembolso ainda não caiu
+116,Construtora Alicerce,conta,media,fechado,telefone,2026-11-06T12:21,2026-11-07T12:32,Quero trocar o e-mail da conta
+117,Auto Peças Rápido,entrega,baixa,aberto,chat,2026-11-06T12:23,,Produto chegou com defeito
+118,Ótica Visão Clara,cobranca,alta,fechado,chat,2026-11-06T13:14,2026-11-07T18:04,Reembolso ainda não caiu
+119,Farmácia Saúde Já,cobranca,baixa,fechado,email,2026-11-06T13:29,2026-11-07T11:20,Quero cancelar minha assinatura
+120,Padaria Pão Quente,conta,media,em_andamento,chat,2026-11-06T15:02,,Quero trocar o e-mail da conta
+121,Padaria Pão Quente,entrega,urgente,aberto,email,2026-11-06T15:03,,Quero trocar o produto
+122,Hotel Recanto Azul,entrega,alta,fechado,chat,2026-11-06T15:41,2026-11-07T01:15,Produto chegou com defeito
+123,Loja Bella Moda,cobranca,media,fechado,telefone,2026-11-06T16:46,2026-11-06T20:28,Boleto não foi gerado
+124,Restaurante Sabor Caseiro,entrega,media,fechado,email,2026-11-06T17:11,2026-11-07T08:04,Quero trocar o produto
+125,Escola Saber Mais,cobranca,baixa,fechado,email,2026-11-06T17:29,2026-11-07T11:03,Reembolso ainda não caiu
+126,Livraria Página 1,entrega,alta,aberto,email,2026-11-06T18:29,,Produto chegou com defeito
+127,Hotel Recanto Azul,cobranca,alta,em_andamento,telefone,2026-11-06T18:58,,Quero cancelar minha assinatura
+128,Ótica Visão Clara,tecnico,urgente,fechado,email,2026-11-06T20:30,2026-11-07T23:31,Erro 500 ao salvar relatório
+129,Ótica Visão Clara,cobranca,media,aberto,telefone,2026-11-06T21:38,,Boleto não foi gerado
+130,TechNova Sistemas,conta,media,aberto,telefone,2026-11-06T22:19,,Conta bloqueada após várias tentativas
+131,TechNova Sistemas,cobranca,media,fechado,chat,2026-11-06T23:16,2026-11-07T23:44,Quero cancelar minha assinatura
+132,Mercado Bom Preço,conta,baixa,fechado,chat,2026-11-06T23:18,2026-11-07T02:18,Quero trocar o e-mail da conta
+133,Loja Bella Moda,tecnico,baixa,fechado,email,2026-11-07T00:33,2026-11-08T03:17,Erro 500 ao salvar relatório
+134,Studio Foto Arte,cobranca,media,fechado,chat,2026-11-07T01:32,2026-11-07T12:14,Boleto não foi gerado
+135,TechNova Sistemas,entrega,urgente,em_andamento,chat,2026-11-07T01:38,,Código de rastreio não funciona
+136,Restaurante Sabor Caseiro,tecnico,media,fechado,chat,2026-11-07T02:03,2026-11-07T19:12,Não consigo exportar para Excel
+137,Mercado Bom Preço,cobranca,alta,aberto,email,2026-11-07T03:04,,Cobrança em duplicidade no cartão
+138,Clínica Vida Plena,cobranca,media,aberto,chat,2026-11-07T03:22,,Quero cancelar minha assinatura
+139,TechNova Sistemas,conta,baixa,fechado,email,2026-11-07T04:29,2026-11-07T20:43,Como adicionar um novo usuário?
+140,Livraria Página 1,entrega,media,em_andamento,chat,2026-11-07T06:14,,Produto chegou com defeito
+141,Mercado Bom Preço,conta,media,aberto,chat,2026-11-07T07:51,,Esqueci minha senha
+142,Auto Peças Rápido,entrega,media,fechado,chat,2026-11-07T07:59,2026-11-08T09:02,Código de rastreio não funciona
+143,Pet Shop Amigo Fiel,cobranca,media,aberto,chat,2026-11-07T09:42,,Reembolso ainda não caiu
+144,Padaria Pão Quente,tecnico,alta,aberto,email,2026-11-07T10:32,,Erro 500 ao salvar relatório
+145,Clínica Vida Plena,entrega,baixa,aberto,telefone,2026-11-07T10:48,,Entrega feita no endereço errado
+146,Loja Bella Moda,conta,media,em_andamento,telefone,2026-11-07T10:53,,Como adicionar um novo usuário?
+147,Restaurante Sabor Caseiro,tecnico,media,em_andamento,chat,2026-11-07T11:22,,Não consigo exportar para Excel
+148,Farmácia Saúde Já,tecnico,media,fechado,telefone,2026-11-07T11:27,2026-11-08T10:22,App não abre depois da atualização
+149,TechNova Sistemas,cobranca,media,fechado,telefone,2026-11-07T12:41,2026-11-07T15:33,Valor da fatura veio errado
+150,Hotel Recanto Azul,cobranca,baixa,fechado,chat,2026-11-07T12:49,2026-11-07T18:07,Quero cancelar minha assinatura
+151,Farmácia Saúde Já,tecnico,alta,em_andamento,telefone,2026-11-07T13:02,,Não consigo exportar para Excel
+152,Mercado Bom Preço,conta,media,fechado,chat,2026-11-07T13:35,2026-11-07T16:27,Conta bloqueada após várias tentativas
+153,Restaurante Sabor Caseiro,cobranca,alta,aberto,telefone,2026-11-07T15:21,,Quero cancelar minha assinatura
+154,Hotel Recanto Azul,conta,baixa,em_andamento,email,2026-11-07T15:31,,Como adicionar um novo usuário?
+155,Auto Peças Rápido,cobranca,media,aberto,email,2026-11-07T15:44,,Valor da fatura veio errado
+156,Auto Peças Rápido,cobranca,baixa,em_andamento,chat,2026-11-07T15:47,,Boleto não foi gerado
+157,Auto Peças Rápido,tecnico,baixa,fechado,telefone,2026-11-07T15:49,2026-11-07T23:55,App não abre depois da atualização
+158,Studio Foto Arte,cobranca,media,em_andamento,telefone,2026-11-07T17:04,,Cobrança em duplicidade no cartão
+159,Construtora Alicerce,cobranca,baixa,fechado,chat,2026-11-07T17:11,2026-11-07T23:55,Cobrança em duplicidade no cartão
+160,Mercado Bom Preço,entrega,media,fechado,email,2026-11-07T17:25,2026-11-08T20:42,Produto chegou com defeito
+161,Studio Foto Arte,cobranca,baixa,em_andamento,telefone,2026-11-07T18:36,,Reembolso ainda não caiu
+162,Livraria Página 1,cobranca,urgente,fechado,chat,2026-11-07T18:37,2026-11-07T20:21,Cobrança em duplicidade no cartão
+163,TechNova Sistemas,conta,baixa,aberto,chat,2026-11-07T19:01,,Conta bloqueada após várias tentativas
+164,Padaria Pão Quente,cobranca,baixa,fechado,chat,2026-11-07T19:35,2026-11-08T18:27,Boleto não foi gerado
+165,Padaria Pão Quente,tecnico,baixa,fechado,email,2026-11-07T19:55,2026-11-07T22:02,"Sistema parado, não funciona nada"
+166,Farmácia Saúde Já,cobranca,baixa,fechado,email,2026-11-07T20:04,2026-11-08T21:46,Cobrança em duplicidade no cartão
+167,Loja Bella Moda,conta,urgente,aberto,chat,2026-11-07T23:29,,Como adicionar um novo usuário?
+168,TechNova Sistemas,tecnico,media,fechado,chat,2026-11-07T23:57,2026-11-08T05:28,Erro 500 ao salvar relatório
+169,Pet Shop Amigo Fiel,entrega,media,fechado,chat,2026-11-08T02:25,2026-11-09T03:44,Entrega feita no endereço errado
+170,Farmácia Saúde Já,cobranca,urgente,fechado,email,2026-11-08T02:28,2026-11-08T22:00,Quero cancelar minha assinatura
+171,Ótica Visão Clara,conta,media,aberto,chat,2026-11-08T05:23,,Esqueci minha senha
+172,Hotel Recanto Azul,tecnico,baixa,fechado,chat,2026-11-08T05:26,2026-11-08T13:28,Integração com a API está lenta
+173,Academia Corpo Ativo,cobranca,media,fechado,chat,2026-11-08T05:35,2026-11-09T09:54,Cobrança em duplicidade no cartão
+174,Hotel Recanto Azul,cobranca,media,em_andamento,telefone,2026-11-08T05:42,,Cobrança em duplicidade no cartão
+175,Construtora Alicerce,tecnico,media,aberto,telefone,2026-11-08T06:55,,Integração com a API está lenta
+176,Construtora Alicerce,entrega,baixa,fechado,email,2026-11-08T06:56,2026-11-09T03:24,Pedido atrasado há 5 dias
+177,Pet Shop Amigo Fiel,tecnico,alta,aberto,chat,2026-11-08T07:27,,App não abre depois da atualização
+178,Loja Bella Moda,entrega,alta,aberto,telefone,2026-11-08T07:32,,Código de rastreio não funciona
+179,Restaurante Sabor Caseiro,conta,media,aberto,chat,2026-11-08T07:55,,Preciso mudar o plano da empresa
+180,Ótica Visão Clara,entrega,alta,fechado,telefone,2026-11-08T08:38,2026-11-08T16:10,Produto chegou com defeito
+181,Clínica Vida Plena,entrega,media,fechado,email,2026-11-08T10:24,2026-11-09T04:10,Quero trocar o produto
+182,Studio Foto Arte,conta,media,aberto,telefone,2026-11-08T11:05,,Como adicionar um novo usuário?
+183,Clínica Vida Plena,conta,alta,fechado,email,2026-11-08T11:53,2026-11-09T02:49,Preciso mudar o plano da empresa
+184,Construtora Alicerce,conta,baixa,em_andamento,telefone,2026-11-08T11:54,,Quero trocar o e-mail da conta
+185,Escola Saber Mais,cobranca,media,aberto,telefone,2026-11-08T12:10,,Cobrança em duplicidade no cartão
+186,Construtora Alicerce,cobranca,baixa,aberto,chat,2026-11-08T12:11,,Reembolso ainda não caiu
+187,Escola Saber Mais,cobranca,alta,fechado,chat,2026-11-08T12:21,2026-11-09T10:05,Valor da fatura veio errado
+188,Pet Shop Amigo Fiel,tecnico,baixa,em_andamento,telefone,2026-11-08T13:41,,"Sistema parado, não funciona nada"
+189,Livraria Página 1,entrega,media,fechado,chat,2026-11-08T14:04,2026-11-09T16:52,Produto chegou com defeito
+190,Hotel Recanto Azul,conta,urgente,fechado,telefone,2026-11-08T17:13,2026-11-09T05:12,Conta bloqueada após várias tentativas
+191,TechNova Sistemas,conta,media,aberto,email,2026-11-08T18:27,,Preciso mudar o plano da empresa
+192,Livraria Página 1,entrega,urgente,fechado,email,2026-11-08T20:36,2026-11-10T02:21,Entrega feita no endereço errado
+193,Construtora Alicerce,entrega,baixa,fechado,telefone,2026-11-08T20:37,2026-11-09T11:00,Pedido atrasado há 5 dias
+194,Auto Peças Rápido,entrega,media,fechado,chat,2026-11-08T22:16,2026-11-09T14:33,Pedido atrasado há 5 dias
+195,Auto Peças Rápido,tecnico,media,aberto,telefone,2026-11-08T22:54,,"Sistema parado, não funciona nada"
+196,Studio Foto Arte,tecnico,media,fechado,telefone,2026-11-08T22:55,2026-11-09T18:24,Não consigo exportar para Excel
+197,Construtora Alicerce,tecnico,alta,fechado,telefone,2026-11-08T23:29,2026-11-09T12:16,Integração com a API está lenta
+198,Hotel Recanto Azul,conta,baixa,em_andamento,telefone,2026-11-09T02:28,,Conta bloqueada após várias tentativas
+199,Academia Corpo Ativo,cobranca,baixa,aberto,email,2026-11-09T02:40,,Boleto não foi gerado
+200,TechNova Sistemas,cobranca,alta,fechado,chat,2026-11-09T04:52,2026-11-09T14:50,Valor da fatura veio errado
+201,Pet Shop Amigo Fiel,entrega,baixa,fechado,email,2026-11-09T05:19,2026-11-09T14:01,Quero trocar o produto
+202,TechNova Sistemas,conta,baixa,fechado,telefone,2026-11-09T05:41,2026-11-10T10:48,Preciso mudar o plano da empresa
+203,Padaria Pão Quente,cobranca,baixa,em_andamento,chat,2026-11-09T06:23,,Valor da fatura veio errado
+204,Hotel Recanto Azul,tecnico,media,aberto,email,2026-11-09T07:44,,Erro 500 ao salvar relatório
+205,Auto Peças Rápido,cobranca,media,fechado,telefone,2026-11-09T08:53,2026-11-10T11:37,Boleto não foi gerado
+206,Padaria Pão Quente,entrega,baixa,em_andamento,chat,2026-11-09T10:25,,Produto chegou com defeito
+207,Farmácia Saúde Já,cobranca,baixa,fechado,chat,2026-11-09T10:37,2026-11-10T13:06,Boleto não foi gerado
+208,Escola Saber Mais,tecnico,alta,fechado,chat,2026-11-09T11:15,2026-11-10T11:02,Erro 500 ao salvar relatório
+209,Auto Peças Rápido,cobranca,baixa,aberto,email,2026-11-09T11:17,,Cobrança em duplicidade no cartão
+210,Escola Saber Mais,cobranca,media,fechado,telefone,2026-11-09T12:09,2026-11-09T14:15,Valor da fatura veio errado
+211,Ótica Visão Clara,entrega,media,fechado,email,2026-11-09T13:36,2026-11-09T19:16,Código de rastreio não funciona
+212,Escola Saber Mais,entrega,urgente,aberto,telefone,2026-11-09T14:31,,Produto chegou com defeito
+213,Padaria Pão Quente,entrega,baixa,fechado,telefone,2026-11-09T14:38,2026-11-10T10:01,Produto chegou com defeito
+214,Clínica Vida Plena,cobranca,media,fechado,email,2026-11-09T14:48,2026-11-09T22:43,Boleto não foi gerado
+215,Clínica Vida Plena,cobranca,urgente,em_andamento,email,2026-11-09T15:26,,Quero cancelar minha assinatura
+216,Farmácia Saúde Já,tecnico,media,aberto,chat,2026-11-09T15:55,,Erro 500 ao salvar relatório
+217,Hotel Recanto Azul,cobranca,baixa,aberto,telefone,2026-11-09T17:15,,Quero cancelar minha assinatura
+218,Pet Shop Amigo Fiel,cobranca,media,em_andamento,telefone,2026-11-09T17:18,,Valor da fatura veio errado
+219,Escola Saber Mais,entrega,media,fechado,email,2026-11-09T17:44,2026-11-09T20:29,Código de rastreio não funciona
+220,Hotel Recanto Azul,cobranca,media,fechado,email,2026-11-09T18:32,2026-11-10T06:38,Reembolso ainda não caiu
+221,Ótica Visão Clara,tecnico,alta,fechado,email,2026-11-09T19:55,2026-11-10T04:27,App não abre depois da atualização
+222,Hotel Recanto Azul,tecnico,baixa,em_andamento,telefone,2026-11-09T20:08,,Integração com a API está lenta
+223,Restaurante Sabor Caseiro,entrega,urgente,em_andamento,chat,2026-11-09T20:10,,Pedido atrasado há 5 dias
+224,Ótica Visão Clara,cobranca,media,em_andamento,email,2026-11-09T20:45,,Cobrança em duplicidade no cartão
+225,Loja Bella Moda,entrega,media,fechado,telefone,2026-11-09T22:28,2026-11-11T01:44,Produto chegou com defeito
+226,Pet Shop Amigo Fiel,entrega,urgente,em_andamento,email,2026-11-09T23:20,,Quero trocar o produto
+227,Livraria Página 1,entrega,media,fechado,chat,2026-11-09T23:29,2026-11-10T00:24,Código de rastreio não funciona
+228,Auto Peças Rápido,conta,baixa,em_andamento,email,2026-11-09T23:37,,Como adicionar um novo usuário?
+229,Pet Shop Amigo Fiel,tecnico,baixa,aberto,email,2026-11-10T00:07,,Não consigo exportar para Excel
+230,Hotel Recanto Azul,entrega,media,fechado,chat,2026-11-10T00:22,2026-11-10T05:53,Quero trocar o produto
+231,TechNova Sistemas,tecnico,alta,aberto,email,2026-11-10T00:41,,"Sistema parado, não funciona nada"
+232,Restaurante Sabor Caseiro,conta,urgente,fechado,email,2026-11-10T00:59,2026-11-10T19:08,Conta bloqueada após várias tentativas
+233,TechNova Sistemas,cobranca,baixa,fechado,telefone,2026-11-10T01:14,2026-11-10T02:30,Reembolso ainda não caiu
+234,TechNova Sistemas,conta,baixa,aberto,chat,2026-11-10T01:29,,Esqueci minha senha
+235,Padaria Pão Quente,cobranca,baixa,em_andamento,chat,2026-11-10T03:33,,Quero cancelar minha assinatura
+236,TechNova Sistemas,conta,media,fechado,email,2026-11-10T04:34,2026-11-10T16:11,Conta bloqueada após várias tentativas
+237,Construtora Alicerce,tecnico,baixa,aberto,chat,2026-11-10T05:06,,Erro 500 ao salvar relatório
+238,Loja Bella Moda,conta,media,fechado,chat,2026-11-10T05:12,2026-11-10T10:35,Esqueci minha senha
+239,Pet Shop Amigo Fiel,entrega,alta,fechado,chat,2026-11-10T05:33,2026-11-11T02:54,Entrega feita no endereço errado
+240,Construtora Alicerce,cobranca,baixa,fechado,chat,2026-11-10T06:17,2026-11-11T10:50,Quero cancelar minha assinatura

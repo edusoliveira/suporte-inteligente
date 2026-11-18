@@ -1,0 +1,41 @@
+id,cliente,categoria,prioridade,status,canal,aberto_em,fechado_em,assunto
+1,Construtora Alicerce,entrega,urgente,fechado,email,2026-11-03T08:53,2026-11-04T09:41,Quero trocar o produto
+2,Mercado Bom Preço,cobranca,media,em_andamento,chat,2026-11-03T08:58,,Boleto não foi gerado
+3,Construtora Alicerce,entrega,baixa,fechado,email,2026-11-03T09:26,2026-11-03T10:19,Quero trocar o produto
+abc,Ótica Visão Clara,conta,baixa,fechado,chat,2026-11-03T11:27,2026-11-04T15:46,Como adicionar um novo usuário?
+5,Pet Shop Amigo Fiel,entrega,media,aberto,email,2026-11-03T12:42,,Código de rastreio não funciona
+6,Farmácia Saúde Já,entrega,media,fechado,telefone,2026-11-03T13:07,2026-11-03T16:01,Entrega feita no endereço errado
+7,Pet Shop Amigo Fiel,cobranca,baixa,fechado,email,2026-11-03T14:49,2026-11-03T23:25,Reembolso ainda não caiu
+8,Padaria Pão Quente,,urgente,aberto,telefone,2026-11-03T15:03,,Conta bloqueada após várias tentativas
+9,Clínica Vida Plena,tecnico,alta,em_andamento,telefone,2026-11-03T15:41,,Erro 500 ao salvar relatório
+10,Academia Corpo Ativo,conta,media,fechado,chat,2026-11-03T15:50,2026-11-04T03:10,Conta bloqueada após várias tentativas
+11,Pet Shop Amigo Fiel,cobranca,alta,fechado,chat,2026-11-03T15:52,2026-11-04T12:53,Reembolso ainda não caiu
+12,Livraria Página 1,entrega,altíssima,em_andamento,chat,2026-11-03T15:55,,Produto chegou com defeito
+13,Escola Saber Mais,tecnico,media,aberto,chat,2026-11-03T16:22,,Erro 500 ao salvar relatório
+14,Pet Shop Amigo Fiel,cobranca,baixa,fechado,chat,2026-11-03T16:34,2026-11-03T19:14,Boleto não foi gerado
+15,Restaurante Sabor Caseiro,conta,media,fechado,email,2026-11-03T17:59,2026-11-04T00:45,Conta bloqueada após várias tentativas
+16,Hotel Recanto Azul,conta,baixa,aberto,chat,2026-11-03T18:26,,   pedido    ATRASADO   
+17,Studio Foto Arte,tecnico,urgente,aberto,telefone,2026-11-03T18:41,,Não consigo exportar para Excel
+18,Restaurante Sabor Caseiro,tecnico,media,em_andamento,telefone,2026-11-03T19:26,,Integração com a API está lenta
+19,Farmácia Saúde Já,tecnico,alta,em_andamento,email,2026-11-03T20:06,,Integração com a API está lenta
+,Loja Bella Moda,cobranca,baixa,em_andamento,chat,2026-11-03T20:33,,Valor da fatura veio errado
+21,Padaria Pão Quente,cobranca,urgente,fechado,email,2026-11-03T21:48,2026-11-04T16:30,Boleto não foi gerado
+22,Restaurante Sabor Caseiro,entrega,media,fechado,telefone,2026-11-03T22:02,2026-11-04T18:46,Quero trocar o produto
+23,Mercado Bom Preço,entrega,urgente,aberto,chat,2026-11-03T22:05,,Entrega feita no endereço errado
+24,Hotel Recanto Azul,conta, ALTA ,aberto,telefone,2026-11-03T22:18,,Esqueci minha senha
+25,Loja Bella Moda,cobranca,media,aberto,chat,2026-11-03T22:21,,Valor da fatura veio errado
+26,Auto Peças Rápido,entrega,baixa,em_andamento,email,2026-11-03T22:32,,Código de rastreio não funciona
+27,Mercado Bom Preço,cobranca,media,fechado,chat,2026-11-03T22:53,2026-11-04T22:56,Cobrança em duplicidade no cartão
+28,TechNova Sistemas,  Tecnico ,baixa,aberto,chat,2026-11-03T23:49,,App não abre depois da atualização
+29,Clínica Vida Plena,cobranca,baixa,fechado,email,2026-11-04T00:33,2026-11-04T12:22,Reembolso ainda não caiu
+30,Ótica Visão Clara,entrega,media,aberto,email,2026-11-04T01:09,,Quero trocar o produto
+31,Studio Foto Arte,tecnico,media,fechado,email,2026-11-04T01:32,2026-11-04T13:04,Integração com a API está lenta
+32,Farmácia Saúde Já,tecnico,media,aberto,telefone,2026-11-04T01:56,,Não consigo exportar para Excel
+33,Ótica Visão Clara,cobranca,media,em_andamento,chat,2026-11-04T01:57,,Reembolso ainda não caiu
+34,TechNova Sistemas,entrega,baixa,aberto,email,2026-11-04T02:19,,Código de rastreio não funciona
+35,Clínica Vida Plena,conta,alta,em_andamento,telefone,2026-11-04T02:26,,Conta bloqueada após várias tentativas
+36,Restaurante Sabor Caseiro,cobranca,urgente,aberto,telefone,2026-11-04T02:41,,Cobrança em duplicidade no cartão
+37,Pet Shop Amigo Fiel,tecnico,alta,aberto,email,2026-11-04T02:59,,"Sistema parado, não funciona nada"
+38,Pet Shop Amigo Fiel,conta,baixa,fechado,chat,2026-11-04T03:29,2026-11-04T09:34,Conta bloqueada após várias tentativas
+39,Restaurante Sabor Caseiro,tecnico,media,fechado,chat,2026-11-04T04:10,2026-11-04T16:12,Erro 500 ao salvar relatório
+40,Auto Peças Rápido,cobranca,media,fechado,telefone,2026-11-04T04:29,2026-11-04T18:35,Boleto não foi gerado
