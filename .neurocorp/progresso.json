@@ -1,0 +1,45 @@
+{
+  "versao": 1,
+  "criadoEm": "2026-11-18T01:00:07.699Z",
+  "xp": 60,
+  "tickets": {
+    "T001": {
+      "status": "done",
+      "tentativas": 2,
+      "dicasReveladas": {
+        "test_mensagem_impressa": 1
+      },
+      "iniciadoEm": "2026-11-18T01:00:07.699Z",
+      "concluidoEm": "2026-11-18T01:15:28.025Z",
+      "xpGanho": 60
+    }
+  },
+  "trilhasConcluidas": {},
+  "eventos": [
+    {
+      "tipo": "inicio",
+      "ticketId": "T001",
+      "data": "2026-11-18T01:00:07.699Z"
+    },
+    {
+      "tipo": "submissao",
+      "ticketId": "T001",
+      "data": "2026-11-18T01:13:19.492Z"
+    },
+    {
+      "tipo": "submissao",
+      "ticketId": "T001",
+      "data": "2026-11-18T01:15:28.025Z"
+    },
+    {
+      "tipo": "conclusao",
+      "ticketId": "T001",
+      "data": "2026-11-18T01:15:28.025Z"
+    },
+    {
+      "tipo": "desbloqueio",
+      "ticketId": "T002",
+      "data": "2026-11-18T01:15:29.025Z"
+    }
+  ]
+}
